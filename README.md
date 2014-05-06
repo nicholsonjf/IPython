@@ -1,4 +1,4 @@
-iPython
+IPython
 =======
 
 My iPython Notebooks
