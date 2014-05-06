@@ -1,7 +1,7 @@
 IPython
 =======
 
-My iPython Notebooks
+My IPython Notebooks
 
 View these as rendered IPython notebooks: [nbviewer/nicholsonjf][1]
 
